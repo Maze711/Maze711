@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maze711" alt="maze711" /></a> </p>
 
-- 🔭 I’m currently working on **Java Personal/School Project**
+- 🔭 I’m currently working on **AI/ML Integration using Python**
 
-- 🌱 I’m currently learning **Java, Svelte, Visual Basic, Laravel**
-
-- 💬 Ask me about **C# or C++, or I can give some knowledge of mine.**
+- 🌱 I’m currently learning **Java, Python (Python), React, Laravel**
 
 - 📫 How to reach me **badlonmazeclarion@gmail.com**
 
-- ⚡ Fun fact **Loves photography but still pursuing to be developer**
+- ⚡ Fun fact **Loves photography but still pursuing to be a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
